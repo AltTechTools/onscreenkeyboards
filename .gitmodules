@@ -1,3 +1,6 @@
 [submodule "svkbd-edit"]
 	path = svkbd-edit
 	url = https://fssSGJ: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@github.com/AltTechTools/svkbd-edit
+[submodule "svkbd"]
+	path = svkbd
+	url = https://git.suckless.org/svkbd
